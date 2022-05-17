@@ -1,0 +1,9 @@
+INDEX VERSION 1.4+C:\Users\helid\OneDrive\Documents\Tietojenkäsittely\Ohjelmointi 2\Veneet\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
+2668952007.index
+4044486477.index
+718345770.index
+2476733737.index
+3333876932.index
+672918614.index
+3682084784.index
+2476733737.index
